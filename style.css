@@ -9,6 +9,9 @@
   flex-direction: column;
   align-items: center;
 }
+.cross {
+  text-decoration: line-through;
+}
 
 li {
   min-width: 800px;
